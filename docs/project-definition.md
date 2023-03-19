@@ -7,5 +7,5 @@ Desktop software for compressing and decompressing files using various algorithm
 Java
 
 ## Administrative details
-Program: tietojenkäsittelytieteen kandidaatti (TKT)
-Documentation language: English
+Program: tietojenkäsittelytieteen kandidaatti (TKT)  
+Documentation language: English  
