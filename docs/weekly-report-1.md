@@ -4,6 +4,6 @@
 
 - Researching project topics: 4:00  
 
-- 
+- Setting up mvn project: 1:00
 
-Total: 
+Total: 7:00

@@ -1,4 +1,4 @@
-# Project definition
+# Project specification
 
 ## Topic
 Desktop software for compressing and decompressing files using various algorithms, both lossy and lossless. 
